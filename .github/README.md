@@ -2,6 +2,14 @@
 
 simple nvim plugin that pops up a notification window to show git contributions
 
+![demo](./assets/demo.gif)
+
+- [Upcoming Features](#upcoming-features)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [parameters for opts](#parameters-for-opts)
+- [Credits](#%EF%B8%8F-credits-)
+
 ## Upcoming Features
 
 - notifies that you haven't done your daily contribution!
@@ -26,7 +34,7 @@ require('gitcontrib').setup({
 })
 ```
 
-#### parameters for opts
+### parameters for opts
 
 You can use other parameters. Each of them works on specific extensions.
 
