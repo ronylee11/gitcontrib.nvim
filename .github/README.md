@@ -22,6 +22,7 @@ Install with your preferred package manager:
 vim-plug
 
 ```
+Plug 'rcarriga/nvim-notify' "dependency
 Plug 'ronylee11/gitcontrib.nvim'
 ```
 
