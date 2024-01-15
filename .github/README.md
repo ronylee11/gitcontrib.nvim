@@ -14,7 +14,7 @@ simple nvim plugin that pops up a notification window to show git contributions
 
 - notifies that you haven't done your daily contribution!
 - filter number of contributions and convert two digit numbers to specific characters according to range (1-10 = A, 10-20 = B, 20-30 = C ...)
-- add colors(using nvim-treesitter highlight) and block
+- add colors(using nvim-treesitter highlight) and block (◼︎)
 
 ## Installation
 
